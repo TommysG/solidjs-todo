@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  padding: 1.5rem;
+
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.inputContainer {
+  display: flex;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.inputText {
+  border: none;
+  outline: none;
+  background: transparent;
+  flex: 1;
+  padding: 0.5rem;
+  font-size: 14px;
+}
+
+.todosContainer {
+}
